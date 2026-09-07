@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Folio— Freelance Portfolio Template (HTML · Tailwind · Alpine.js)
 #### Preview
 
@@ -23,3 +24,6 @@ Design and code is completely written by Laurent Begey and development team.
  - Design and Code is Copyright &copy; <a href="https://lbegey78.gumroad.com/" target="_blank">Laurent Begey</a>
  - Licensed cover under [MIT]
  - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+=======
+# POrting
+>>>>>>> 62199bf18313512ac8050176559a97e529beac5f
